@@ -8,7 +8,7 @@ clear
 
 toilet -f slant --gay "LiteSpam"
 sleep 1
-echo "\033[33;1m Macam-macam tool untuk spam"
+echo "\033[33;1m Pilih aja "
 sleep 1
 echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
 sleep 1
@@ -35,8 +35,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
-php 1
+cd $HOME/LITESPAM/php 1
 fi
 
 if
@@ -51,8 +50,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
-php 2.php
+cd $HOME/LITESPAM/php 2.php
 fi
 
 if [ $mrrm = 3 ] || [ $mrrm = 3 ]
@@ -66,8 +64,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
-php 3.php
+cd $HOME/LITESPAM/php 3.php
 fi
 
 
@@ -81,8 +78,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
-php 4.php
+cd $HOME/LITESPAM/php 4.php
 fi
 
 if [ $mrrm = 5 ] || [ $mrrm = 5 ]
@@ -100,8 +96,7 @@ sleep 1
 echo "\033[32;1mtunggu 5 Detik"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
-php 5.php
+cd $HOME/LITESPAM/php 5.php
 fi
 
 if
@@ -114,8 +109,7 @@ echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
 echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
 sleep 5
-cd $HOME/LITESPAM/Tul/
-php 6.php
+cd $HOME/LITESPAM/php 6.php
 fi
 
 if
@@ -147,24 +141,20 @@ echo "\033[35;1mPemograman:""\033[36;1m Bash"
 
 echo "\033[33;1mKarya: IM81"
 sleep 1
-echo "\033[32;1mVersi: v3"
+echo "\033[32;1mVersi: v1"
 sleep 1
-echo "\033[36;1mTeam: Indonesia Security Lite"
+echo "\033[36;1mTeam: FVN"
 sleep 1
-echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
+echo "\033[31;1mSubscribe YouTube""\033[37;1m FepscoVerenigen78"
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Danz"
-echo "Mr.Rm"
-echo "SBGTeam"
-echo "amsitlab"
-echo "Bully Hat"
-echo "ChandraAditya"
-echo "Secoly Indonesia"
-echo "BlackHole Security"
-echo "Association Indonesian Right Wings"
+echo "KaryaAgung"
+echo "FVN"
+echo "TeamJabar"
+echo "TeamSupportgua"
+echo "IriBilangBos"
 sleep 1
-echo "And All Member Indonesia Security Lite"
+echo "Heters!"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 sh LITESPAM.sh
@@ -177,7 +167,7 @@ if
 then
 echo "\033[31;1m Keluar"
 sleep 1
-echo "\033[32;1m Sampai berjumpa lagi :)"
+echo "\033[32;1m Sampai berjumpa lagi jangan baper!:)"
 sleep 1
 fi
 
